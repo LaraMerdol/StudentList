@@ -1,0 +1,20 @@
+[
+	{
+		"Name": "Furkan",
+		"Surname": "Çalık",
+		"Department": "Computer Engineering",
+		"StudentNumber": "201901020304"
+	},
+		{
+			"Name": "Ata",
+			"Surname": "Coşkun",
+			"Department": "Electronic Engineering",
+			"StudentNumber": "201804030201"
+		},
+		{
+			"Name": "Umer",
+			"Surname": "Shamaan",
+			"Department": "Software Engineering",
+			"StudentNumber": "201909080706"
+		}
+	]

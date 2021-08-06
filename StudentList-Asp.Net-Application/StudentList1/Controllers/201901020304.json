@@ -1,0 +1,23 @@
+ [
+		{
+			"LessonName": "Linear Algebra",
+			"FirstExam": 65,
+			"FinalExam": 70,
+			"Avarage": 68.5,
+			"CharValue": "BC"
+		},
+		{
+			"LessonName": "Intoduction to Software Engineering",
+			"FirstExam": 80,
+			"FinalExam": 82,
+			"Avarage": 81.4,
+			"CharValue": "AB"
+		},
+		{
+			"LessonName": "Differential Equations",
+			"FirstExam": 55,
+			"FinalExam": 69,
+			"Avarage": 64.8,
+			"CharValue": "CC"
+		}
+	]
